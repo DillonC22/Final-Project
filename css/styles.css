@@ -74,7 +74,7 @@ nav a {
 }
 .content-area p {
 	padding: 2% 0px;
-	font-family:  'Ramabhadra', sans-serif;
+	font-family: 'DM Serif Display', serif;
 	line-height: 30px;
 }
 
@@ -100,7 +100,7 @@ img {
 	height: 500px;
 	position: fixed;
 	top: 100px;
-    background-image: url("../img/mg2.jpg");
+    background-image: url(../img/mg2.jpg);
 	-webkit-background-size: cover;
 	background-size: auto;
 	background-position: center center;
@@ -124,7 +124,7 @@ img {
 
 .content-area-about p {
 	padding: 2% 0px;
-	font-family:  'Ramabhadra', sans-serif;
+	font-family: 'DM Serif Display', serif;
 	line-height: 30px;
 }
 /* end about page */
@@ -140,6 +140,8 @@ footer {
     text-align: center;
     font-family: 'Ramabhadra', sans-serif;
 }
+
+
 
 /* contact form */
 .container {
@@ -181,7 +183,7 @@ input[type=text], select, textarea {
 	height: 500px;
 	position: fixed;
 	top: 100px;
-    background-image: url("../img/r4.jpg");
+    background-image: url(../img/r4.jpg);
 	-webkit-background-size: cover;
 	background-size: contain;
 	background-position: center center;
@@ -209,8 +211,8 @@ input[type=text], select, textarea {
   }
 
   .fa-facebook {
-    background: #3B5998;
-    color: white;
+    background: grey;
+    color: black;
   }
   
   .fa-instagram {
