@@ -210,13 +210,8 @@ input[type=text], select, textarea {
     opacity: 0.7;
   }
 
-  .fa-facebook {
-    background: grey;
-    color: black;
-  }
   
   .fa-instagram {
-    background: grey;
-    color:black;
+    color:#fff;
   }
 
